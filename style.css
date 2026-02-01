@@ -46,7 +46,7 @@ button:hover {
     background: #457b9d;
 }
 @media (max-width: 768px) {
-    .Product-list {
+    .Product-List {
         grid-template-columns: 1fr;
     }
 }
